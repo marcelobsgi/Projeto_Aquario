@@ -22,8 +22,8 @@ const int led = 2;
 int green = 16; // Pino do LED D0  //Iniciar alimentação
 int blue = 4; // Pino do LED D2    //Comida liberada
 int red = 13; // Pino do LED D7
-const char* ssid = "BARBARA_2G";
-const char* password = "#julia140714";
+const char* ssid = "Rede Wifi";
+const char* password = "senha wifi";
 
 // Defina o pino do sensor DS18B20
 #define ONE_WIRE_BUS 2
